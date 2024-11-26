@@ -19,7 +19,7 @@
 
 ### 010101社工库  地址:[cd01bot](https://t.me/cd01bot?start=NTk4NTMyMjQzMQ)
 
-### 红鼻子社工库机器人  地址:[复活红鼻子](t.me/freesgk123_bot?start=JG1UBPJC)
+### 红鼻子社工库机器人  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)
 
 ### 1无名社工机器人  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)
 
