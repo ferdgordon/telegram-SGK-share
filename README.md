@@ -11,7 +11,7 @@
 
 ### 狗狗免费社工机器人  地址: [@DOG_SGK](https://t.me/DogeSGK_bot?start=5985322431)
 
-### 平安社工库  地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=RNSsLrRA2K)
+~~### 平安社工库(已失效)  地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=RNSsLrRA2K)~~
 
 ### ~~Carll社工库(已失效)  地址：[@Carll](https://t.me/carllnet_2)~~
 
