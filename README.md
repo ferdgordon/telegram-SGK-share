@@ -10,6 +10,8 @@
 
 ### liemo社工库  地址：[@hh_liemo_bot](https://t.me/hh_liemo_bot?start=5985322431)
 
+### hash社工库  地址：[@AnonymousSGKbot](https://t.me/AnonymousSGKbot?start=5985322431)
+
 ---
 
 ### Space社工库机器人  地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=7Ec8j7mdl7)
