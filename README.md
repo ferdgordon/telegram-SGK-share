@@ -15,7 +15,7 @@
 
 ### Carll社工库  地址：[@Carll](https://t.me/carllnet_2)
 
-### 好旺机器人  地址:[@haowangshegongkubot](t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
+### 好旺机器人  地址:[@haowangshegongkubot](https://t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
 
 ### 010101社工库  地址:[cd01bot](https://t.me/cd01bot?start=NTk4NTMyMjQzMQ)
 
