@@ -5,7 +5,7 @@
 
 ### Space社工库机器人  地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=7Ec8j7mdl7)
 
-### ~~零度社工机器人(已失效)~~  地址: [@Iner_SGK](https://t.me/INERSGKBOT)
+### ~~零度社工机器人(已失效)  地址: [@Iner_SGK](https://t.me/INERSGKBOT)~~
 
 ### 007工具机器人  地址链接：[@SGK007_Bot](https://t.me/sgk007_bot?start=NTk4NTMyMjQzMQ)
 
@@ -13,7 +13,7 @@
 
 ### 平安社工库  地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=RNSsLrRA2K)
 
-### ~~Carll社工库(已失效)~~  地址：[@Carll](https://t.me/carllnet_2)
+### ~~Carll社工库(已失效)  地址：[@Carll](https://t.me/carllnet_2)~~
 
 ### 好旺机器人  地址:[@haowangshegongkubot](https://t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
 
