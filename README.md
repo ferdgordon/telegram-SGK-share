@@ -1,7 +1,16 @@
 ## Telegram 免费社工库合集（不定期更新）
 ### 大部分只需签到就可使用，须付费的已标出
 
+# 新添加
+---
+
+### 暗精灵社工库  地址：[@AJL01_bot](https://t.me/AJL01_bot?start=3EyE4viwWF)
+
+### 淘宝社工库  地址：[@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=oh9mifBYuy)
+
 ### liemo社工库  地址：[@hh_liemo_bot](https://t.me/hh_liemo_bot?start=5985322431)
+
+---
 
 ### Space社工库机器人  地址: [@Space_SGK](https://t.me/SpaceSGK_bot?start=7Ec8j7mdl7)
 
