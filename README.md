@@ -4,6 +4,8 @@
 ---
 ## 新添加
 
+### 花花社工库 地址：[@sgkvipbot](https://t.me/sgkvipbot?start=vip_1314341)
+
 ### 暗精灵社工库  地址：[@AJL01_bot](https://t.me/AJL01_bot?start=3EyE4viwWF)
 
 ### 淘宝社工库  地址：[@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=oh9mifBYuy)
