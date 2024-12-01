@@ -12,6 +12,8 @@
 
 ### hash社工库  地址：[@AnonymousSGKbot](https://t.me/AnonymousSGKbot?start=5985322431)
 
+### 叮当猫机器人
+
 ---
 
 ### liemo社工库  地址：[@hh_liemo_bot](https://t.me/hh_liemo_bot?start=5985322431)
@@ -30,13 +32,13 @@
 
 ### 好旺机器人  地址:[@haowangshegongkubot](https://t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
 
-### 010101社工库  地址:[cd01bot](https://t.me/cd01bot?start=NTk4NTMyMjQzMQ)
+### ~~010101社工库 地址:[cd01bot](https://t.me/cd01bot?start=NTk4NTMyMjQzMQ)~~
 
 ### 红鼻子社工库机器人  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)
 
 ### 1无名社工机器人  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)
 
-### 综合数据社工库  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)
+### ~~综合数据社工库  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)~~
 
 ## 付费社工库
 
