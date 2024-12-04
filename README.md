@@ -12,7 +12,7 @@
 
 ### hash社工库  地址：[@AnonymousSGKbot](https://t.me/AnonymousSGKbot?start=5985322431)
 
-### 叮当猫机器人
+### 叮当猫机器人  地址：[@DingDangCats_Bot](https://t.me/DingDangCats_Bot?start=569913b7c6b5b835)
 
 ---
 
