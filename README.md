@@ -24,7 +24,7 @@
 
 ### 007工具机器人  地址链接：[@SGK007_Bot](https://t.me/sgk007_bot?start=NTk4NTMyMjQzMQ)
 
-### 狗狗免费社工机器人  地址: [@DOG_SGK](https://t.me/DogeSGK_bot?start=5985322431)
+### ~~狗狗免费社工机器人(已失效)  地址: [@DOG_SGK](https://t.me/DogeSGK_bot?start=5985322431)~~
 
 ### 平安社工库(已失效)  地址: [@Pingan_SGK](https://t.me/pingansgk_bot?start=RNSsLrRA2K)
 
