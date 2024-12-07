@@ -8,7 +8,7 @@
 
 ### 淘宝社工库  地址：[@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=TDL27cFcq6)
 
-### 暗精灵社工库（注册送五积分，可免费查询五次）  地址：[@AJL01_bot](https://t.me/AJL01_bot?start=3EyE4viwWF)
+### ~~暗精灵社工库（已失效）  地址：[@AJL01_bot](https://t.me/AJL01_bot?start=3EyE4viwWF)~~
 
 ### hash社工库  地址：[@AnonymousSGKbot](https://t.me/AnonymousSGKbot?start=5985322431)
 
