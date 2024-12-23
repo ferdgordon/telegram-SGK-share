@@ -34,7 +34,6 @@
 
 ### 1无名社工机器人  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)
 
-### ~~综合数据社工库  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)~~
 
 ## 付费社工库
 
