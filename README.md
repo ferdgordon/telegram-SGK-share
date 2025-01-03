@@ -1,7 +1,7 @@
 ## 团队自用 Telegram 免费社工库机器人合集（不定期更新）
 ### 分享几个自用机器人，大部分只需签到就可使用，须付费的已标出，首次注册均可获取免费查询次数
 
-### 综合数据社工库  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)
+### ~~综合数据社工库(已失效)  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)~~
 ### ~~花花社工库（维护） 地址：[@sgkvipbot](https://t.me/sgkvipbot?start=vip_1314341)~~
 
 ### 淘宝社工库  地址：[@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=TDL27cFcq6)
