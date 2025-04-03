@@ -4,6 +4,8 @@
 ### ~~综合数据社工库(已失效)  地址：[@oldZHSGKbot](https://t.me/oldZHSGKbot?start=5985322431)~~
 ### 花花社工库（已恢复） 地址：[@sgkvipbot](https://t.me/sgkvipbot?start=vip_1314341)
 
+### FanHua社工库Bot 地址：[FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
+
 ### 淘宝社工库  地址：[@TaoBaoSGKBot](https://t.me/TaoBaoSGKBot?start=TDL27cFcq6)
 
 ### ~~暗精灵社工库（已失效）  地址：[@AJL01_bot](https://t.me/AJL01_bot?start=3EyE4viwWF)~~
