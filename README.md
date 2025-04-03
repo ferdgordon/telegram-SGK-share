@@ -3,7 +3,7 @@
 
 ## 新
 
-### FanHua社工库Bot 地址：[FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
+### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
 
 ---
 
