@@ -2,8 +2,8 @@
 ### 分享几个自用机器人，大部分只需签到就可使用，须付费的已标出，首次注册均可获取免费查询次数
 
 ---
-## 新
 
+## 最近更新
 ### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
 
 ---
