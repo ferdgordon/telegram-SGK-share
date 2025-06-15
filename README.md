@@ -20,8 +20,6 @@
 
 ### 007工具机器人  地址链接：[@SGK007_Bot](https://t.me/sgk007_bot?start=NTk4NTMyMjQzMQ)
 
-### 010101机器人(好像是和007工具机器人一个库)  地址链接：[@010101](https://t.me/cd01bot?start=NTk4NTMyMjQzMQ))
-
 ### 好旺机器人  地址:[@haowangshegongkubot](https://t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
 
 ### ~~红鼻子社工库机器人(维护)  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)~~
