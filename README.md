@@ -26,7 +26,7 @@
 
 ### ~~红鼻子社工库机器人(维护)  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)~~
 
-### ~~1无名社工机器人  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)~~
+### ~~1无名社工机器人(无法签到)  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)~~
 
 
 ## 付费社工库
