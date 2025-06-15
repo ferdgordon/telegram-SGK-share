@@ -4,9 +4,13 @@
 ---
 
 ## 最近更新
-### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
+
+### 情报局社工库之玄武(新) 地址：[@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTk4NTMyMjQzMQ==)
+
 
 ---
+
+### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
 
 ### 花花社工库（已恢复） 地址：[@sgkvipbot](https://t.me/sgkvipbot?start=vip_1314341)
 
