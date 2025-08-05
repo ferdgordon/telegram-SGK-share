@@ -7,12 +7,9 @@
 
 ### X-ray 智能机器人(新) 地址：[@Xray_Sgk_bot](https://t.me/Xray_Sgk_bot?start=TAZTUQQSUP)
 
-
-
-
 ---
 
-### 情报局社工库之玄武() 地址：[@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTk4NTMyMjQzMQ==)
+### 情报局社工库之玄武 地址：[@QingBaoJuXuanwubot](https://t.me/QingBaoJuXuanwubot?start=NTk4NTMyMjQzMQ==)
 
 ### FanHua社工库Bot 地址：[@FanHuaBot](https://t.me/FanHuaSGK_bot?start=FanHua_FJQFNFAI)
 
@@ -30,7 +27,7 @@
 
 ### 好旺机器人  地址:[@haowangshegongkubot](https://t.me/haowangshegongkubot?start=EE9M4SY8OUSXO9QTMJPGQ)
 
-### ~~红鼻子社工库机器人(维护)  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)~~
+### ~~红鼻子社工库机器人(不可用)  地址:[@freesgk123_bot](https://t.me/freesgk123_bot?start=JG1UBPJC)~~
 
 ### ~~1无名社工机器人(无法签到)  地址:[@wmsgk1_bot](https://t.me/wmsgk1_bot?start=5985322431)~~
 
